@@ -1,0 +1,7 @@
+crewai
+langchain-openai
+litellm
+duckduckgo-search
+mcp
+mcp-server-sqlite
+python-dotenv
